@@ -4,7 +4,7 @@
 
 * Making Programming more inclusive for students with minimal opportunities/funding. 
 
-* Increasing the amount girls and women involved in STEM.  
+* Increasing the number of girls and women in STEM.  
 
 
 # Application and some of my thought process. 
@@ -15,7 +15,7 @@
 
 * Decided to start with the cambridge IGCSE Syllabus as my base. I intend to iteratively improve this and tailor it to the Nigerian student population's needs. 
 
-* Add this to the collaboration section: If you intend on contributing and you have no idea where to get inspiration/content from, might I suggenst looking at these textbooks 
+* Add this to the collaboration section: If you intend on contributing and you have no idea where to get inspiration/content from, might I suggest looking at these textbooks 
 
 - Cambridge IGCSE Physics (Third edition) (Collins)
 
